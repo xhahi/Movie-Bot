@@ -15,7 +15,7 @@ class Script(object):
 ┣⪼  ᴍʏ ɴᴀᴍᴇ: {}
 ┣ ⪼ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/xhahi'>Шахир</a>
 ┣⪼ ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
-┣⪼ 𝚁𝚎𝚙𝚘: <a href='https://github.com/ccadmin1/Movie-Bot'>ᴄʟɪᴄᴋ</a>
+┣⪼ 𝚁𝚎𝚙𝚘: <a href='https://github.com/xhahi/Movie-Bot'>ᴄʟɪᴄᴋ</a>
 ┣⪼ ᴅᴀᴛᴀ ʙᴀꜱᴇ: <a href='https://www.mongodb.com/'>MongoDB</a>
 ┣⪼ ʙᴏᴛ ꜱᴇʀᴠᴇʀ: <a href='https://heroku.com'>Heroku</a>
 ┣⪼ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ: v2.0.1 [ Beta ]
