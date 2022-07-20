@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('💫 𝙐𝙋𝘿𝘼𝙏𝙀𝙎', url=invite_link.invite_link)
+                InlineKeyboardButton('💫 𝙐𝙋𝘿𝘼𝙏𝙀𝙎', url='https://t.me/+A1p15aWP7wRlZDI1')
             ],
             [
                 InlineKeyboardButton('ᴄʟɪᴄᴋ ʙᴜᴛᴛᴏɴ ғᴏʀ ᴍᴏʀᴇ', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -134,7 +134,7 @@ async def start(client, message):
                 f_caption = f"{title}"
             buttons = [
                 [
-                    InlineKeyboardButton('💫 𝙐𝙥𝙙𝙖𝙩𝙚𝙨', url=nvite_link.invite_link)
+                    InlineKeyboardButton('💫 𝙐𝙥𝙙𝙖𝙩𝙚𝙨', url='https://t.me/+A1p15aWP7wRlZDI1')
                 ]
                 ]
             try:
@@ -244,7 +244,7 @@ async def start(client, message):
         f_caption = f"{files.file_name}"
     buttons = [
         [
-            InlineKeyboardButton('💫 𝙐𝙥𝙙𝙖𝙩𝙚𝙨', url=nvite_link.invite_link)
+            InlineKeyboardButton('💫 𝙐𝙥𝙙𝙖𝙩𝙚𝙨', url='https://t.me/+A1p15aWP7wRlZDI1')
         ]
         ]
     await client.send_cached_media(
